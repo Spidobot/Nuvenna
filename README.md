@@ -1,6 +1,10 @@
-# Nuvenna
+<p align="center">
+  <img src="apps/nuvenna/web/public/mark.png" width="86" height="86" alt="">
+</p>
 
-**Know. Share. Together.**
+<h1 align="center">Nuvenna</h1>
+
+<p align="center"><strong>Know. Share. Together.</strong></p>
 
 Self-hosted team wiki with real-time editing: spaces and page trees, versions, comments, templates, search, export and import, public links — and live ticket and query blocks from Tickvana.
 
