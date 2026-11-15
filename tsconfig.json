@@ -1,0 +1,17 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "packages/core"
+    },
+    {
+      "path": "packages/ui"
+    },
+    {
+      "path": "apps/nuvenna"
+    },
+    {
+      "path": "apps/nuvenna/tsconfig.web.json"
+    }
+  ]
+}
